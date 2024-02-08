@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Similarity Quest</string>
+    <string name="player1">Player 1: %1$d scores</string>
+    <string name="player2">Player 2: %1$d scores</string>
+    <string name="turnInfo">Player %1$d turn</string>
+    <string name="winInfo">Player %1$d won the game !</string>
+    <string name="drawInfo">Game over, draw ! </string>
+    <string name="buttonText">Reset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
